@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Create Next App</title>
+        <title>Rock</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <h1>We are using NextJS!</h1>
